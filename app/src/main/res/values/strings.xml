@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">victorina</string>
+    <string name="app_name2">Victorina for students of school №61</string>
+    <string name="start">Start</string>
+    <string name="click_again_to_exit">Press again to exit</string>
+    <string name="complete_previous_level">Complete the previous level first</string>
+    <string name="title_activity_leve_menu">leveMenuActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="back_btn">Back</string>
+    <string name="level_name">Level:</string>
+    <string name="btn_continue">Continue</string>
+    <string name="transit_time">Transit time</string>
+    <string name="transit_time_record">New time record</string>
+
+
+</resources>

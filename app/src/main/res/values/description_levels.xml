@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level1">What unit of information is more?\nQuestions can be repeated until you score 20 points.</string>
+    <string name="level1End">Congratulations, level completed!</string>
+    <string name="level2">Which OS was released later?\nQuestions can be repeated until you score 20 points.</string>
+    <string name="level3">What game came out later?\nQuestions can be repeated until you score 20 points.</string>
+    <string name="level4">What programming language is most commonly used?\nQuestions can be repeated until you score 20 points.</string>
+    <string name="level5">Какая ОС используется чаще всего?\nQuestions can be repeated until you score 20 points.</string>
+
+</resources>

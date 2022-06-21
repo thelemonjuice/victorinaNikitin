@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/dialogfon"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_margin="10dp"
+    android:background="@drawable/bg_dialog_level1"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:scaleType="centerCrop">
+
+    <TextView
+        android:id="@+id/btn_close_dialog"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="end"
+        android:layout_margin="10dp"
+        android:background="@drawable/btn_stroke_black95_press_white"
+        android:gravity="center"
+        android:text="X"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <TextView
+            android:id="@+id/textdescriptionEnd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/level1End"
+            android:textAlignment="center"
+            android:textColor="@color/black95"
+            android:textSize="22sp" />
+
+        <TextView
+            android:id="@+id/endTimeText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/btn_continue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/btn_stroke_black95_press_white"
+            android:paddingLeft="10dp"
+
+            android:paddingTop="5dp"
+            android:paddingRight="10dp"
+            android:paddingBottom="5dp"
+            android:text="@string/btn_continue"
+            android:textColor="@color/black95"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //level1
+    <string name="level1_text1">1 бит</string>
+    <string name="level1_text2">1 байт</string>
+    <string name="level1_text3">1 килобайт</string>
+    <string name="level1_text4">1 мегабайт</string>
+    <string name="level1_text5">1 гигабайт</string>
+    <string name="level1_text6">1 терабайт</string>
+    <string name="level1_text7">1 эксабайт</string>
+    <string name="level1_text8">1 зеттабайт</string>
+    <string name="level1_text9">1 йоттабайт</string>
+    //level2
+    <string name="level2_text0">Windows 3.0</string>
+    <string name="level2_text1">Windows 3.1</string>
+    <string name="level2_text2">Windows 95</string>
+    <string name="level2_text3">Windows 98</string>
+    <string name="level2_text4">Windows 2000</string>
+    <string name="level2_text5">Windows XP</string>
+    <string name="level2_text6">Windows 7</string>
+    <string name="level2_text7">Windows 10</string>
+    <string name="level2_text8">Windows 11</string>
+    <string name="level2_text_win3_0">22 мая 1990</string>
+    <string name="level2_text_win3_1">14 апреля 1992</string>
+    <string name="level2_text_win95">24 августа 1995</string>
+    <string name="level2_text_win98">25 июня 1998</string>
+    <string name="level2_text_win2000">17 февраля 2000</string>
+    <string name="level2_text_winxp">31 декабря 2001</string>
+    <string name="level2_text_win7">25 октября 2009</string>
+    <string name="level2_text_win10">29 июля 2015</string>
+    <string name="level2_text_win11">21 октября 2021</string>
+    //level3
+    <string name="level3_text0">Bioshock Infinite</string>
+    <string name="level3_text1">Grand Theft Auto V</string>
+    <string name="level3_text2">The Witcher 3: Wild Hunt</string>
+    <string name="level3_text3">Dark Souls III</string>
+    <string name="level3_text4">Overwatch</string>
+    <string name="level3_text5">God of War</string>
+    <string name="level3_text6">Red Dead Redemption II</string>
+    <string name="level3_text7">Sekiro: Shadows Die Twice</string>
+    <string name="level3_text8">Doom Eternal</string>
+    <string name="level3_text9">Cyberpunk 2077</string>
+    //level4
+    <string name="level4_text0">Ruby</string>
+    <string name="level4_text1">Go</string>
+    <string name="level4_text2">C++</string>
+    <string name="level4_text3">Swift</string>
+    <string name="level4_text4">Kotlin</string>
+    <string name="level4_text5">TypeScript</string>
+    <string name="level4_text6">PHP</string>
+    <string name="level4_text7">Python</string>
+    <string name="level4_text8">Java</string>
+    <string name="level4_text9">C#</string>
+    <string name="level4_text10">JavaScript</string>
+    //level5
+    <string name="level5_text0">PlayStation</string>
+    <string name="level5_text1">Xbox</string>
+    <string name="level5_text2">Chrome OS</string>
+    <string name="level5_text3">Linux</string>
+    <string name="level5_text4">OS X</string>
+    <string name="level5_text5">iOS</string>
+    <string name="level5_text6">Windows</string>
+    <string name="level5_text7">Android</string>
+    <string name="level5_text0_ps">0.06%</string>
+    <string name="level5_text1_xbox">0.1%</string>
+    <string name="level5_text2_chrome">0.47%</string>
+    <string name="level5_text3_linux">0.69%</string>
+    <string name="level5_text4_osx">7.98%</string>
+    <string name="level5_text5_ios">17.66%</string>
+    <string name="level5_text6_windows">32.31%</string>
+    <string name="level5_text7_android">39.7%</string>
+
+</resources>
